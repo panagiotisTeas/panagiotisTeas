@@ -21,9 +21,10 @@ External Participant in the ATLAS Experiment at CERN.
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/panagiotisteas/)  
-- **Portfolio**: _Coming soon_  
 - **GitHub**: You're here already 😄  
 
 ---
 
-🚀 *Bridging science and code — one project at a time.*
+## 🛠️ Projects
+
+### [RayTracer](https://github.com/panagiotisTeas/RayTracer.git)  
