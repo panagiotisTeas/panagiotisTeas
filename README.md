@@ -28,4 +28,4 @@ External Participant in the ATLAS Experiment at CERN.
 ## 🛠️ Projects
 
 ### [RayTracer](https://github.com/panagiotisTeas/RayTracer.git)  
-### [KalmanFilter-PP]([https://github.com/panagiotisTeas/RayTracer.git](https://github.com/panagiotisTeas/KalmanFilter-PP.git))  
+### [KalmanFilter-PP](https://github.com/panagiotisTeas/KalmanFilter-PP.git) 
